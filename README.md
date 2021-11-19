@@ -11,11 +11,16 @@
 
 •If you get blocked, please reflect on what blocked you and any strategies you adopted that helped you make progress.
 ##User stories
+<s>
+
 ```
 As a staff member
 In order to distinguish between meeting rooms
 I would like my meeting room to have a name
 ```
+
+</s>
+
 ```
 As an office manager
 So that staff can coordinate meetings
