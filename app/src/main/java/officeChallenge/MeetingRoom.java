@@ -13,6 +13,10 @@ public class MeetingRoom {
         return availability;
     }
 
+    public String getRoomName(){
+        return roomName;
+    }
+
     public void enterMeetingRoom(){
         if(availability == false) {
             System.out.printf("Room already occupied");
