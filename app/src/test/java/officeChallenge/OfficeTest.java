@@ -17,7 +17,7 @@ public class OfficeTest {
         office.addMeetingRoom(room);
         assertTrue(office.rooms instanceof ArrayList<MeetingRoom>);
     }
-
+    @Test
     public void testGetMeetingRooms(){
         MeetingRoom room = new MeetingRoom("Room1");
         Office office = new Office();

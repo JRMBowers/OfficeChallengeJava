@@ -35,7 +35,6 @@ So that I can manage meeting rooms
 I would like to list all the meeting rooms in the office
 
 ```
-</s>
 
 ```
 As a staff member
@@ -43,6 +42,9 @@ In order to have meeting,
 I would like to check if the meeting room is available or not (true or false)
 
 ```
+
+</s>
+
 ```
 As a staff member
 In order to have a meeting,
