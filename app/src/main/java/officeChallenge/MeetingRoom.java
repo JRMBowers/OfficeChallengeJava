@@ -16,6 +16,7 @@ public class MeetingRoom {
     public void enterMeetingRoom(){
         if(availability == false) {
             System.out.printf("Room already occupied");
+            throw new RuntimeException("Room already occupied");
         }
         availability = false;
     }

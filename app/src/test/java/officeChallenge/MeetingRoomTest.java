@@ -18,6 +18,7 @@ public class MeetingRoomTest {
     public void testEnterMeetingRoom(){
         room.enterMeetingRoom();
         assertFalse(room.getMeetingRoomAvailability());
+        assertThrows(RuntimeException.class,() -> room.enterMeetingRoom());
     }
     @Test
     public void testLeaveMeetingRoom(){

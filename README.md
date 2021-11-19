@@ -64,13 +64,14 @@ I would like to be able to see a list of available rooms in the office
 
 ```
 
-</s>
-
 ```
 As a staff member
 So that I can avoid interrupting a meeting
 I would like an error if I try to use a room that has already been entered
 ```
+
+</s>
+
 ### Stretch user stories
 ```
 As an office manager
