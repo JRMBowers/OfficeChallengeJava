@@ -50,14 +50,15 @@ I would like to be able to enter the meeting room and this should make it unavai
 
 ```
 
-</s>
-
 ```
 As a staff member
 In order to end a meeting
 I would like to be able to leave the meeting room and this should make it available again
 
 ```
+
+</s>
+
 ```
 As a staff member
 So that I can see where to have my meeting
