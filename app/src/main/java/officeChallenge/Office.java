@@ -16,4 +16,14 @@ public class Office {
         }
         return roomNames;
     }
+
+    public ArrayList<String> getAvailableMeetingRooms(){
+        ArrayList<String> roomNames = new ArrayList<>();
+        for(MeetingRoom item :rooms){
+            if (item.availability == true) {
+                roomNames.add(item.roomName);
+            }
+        }
+        return roomNames;
+    }
 }

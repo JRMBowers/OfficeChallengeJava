@@ -57,14 +57,15 @@ I would like to be able to leave the meeting room and this should make it availa
 
 ```
 
-</s>
-
 ```
 As a staff member
 So that I can see where to have my meeting
 I would like to be able to see a list of available rooms in the office
 
 ```
+
+</s>
+
 ```
 As a staff member
 So that I can avoid interrupting a meeting
