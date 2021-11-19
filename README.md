@@ -19,19 +19,24 @@ In order to distinguish between meeting rooms
 I would like my meeting room to have a name
 ```
 
-</s>
+
 
 ```
 As an office manager
 So that staff can coordinate meetings
 I would like to add a meeting room to the office
 ```
+
+
+
 ```
 As an office manager
 So that I can manage meeting rooms
 I would like to list all the meeting rooms in the office
 
 ```
+</s>
+
 ```
 As a staff member
 In order to have meeting,
