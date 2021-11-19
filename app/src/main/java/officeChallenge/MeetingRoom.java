@@ -12,4 +12,15 @@ public class MeetingRoom {
     public boolean getMeetingRoomAvailability(){
         return availability;
     }
+
+    public void enterMeetingRoom(){
+        if(availability == false) {
+            System.out.printf("Room already occupied");
+        }
+        availability = false;
+    }
+
+    public void leaveMeetingRoom(){
+        availability = true;
+    }
 }

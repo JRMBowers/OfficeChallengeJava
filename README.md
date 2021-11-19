@@ -43,14 +43,15 @@ I would like to check if the meeting room is available or not (true or false)
 
 ```
 
-</s>
-
 ```
 As a staff member
 In order to have a meeting,
 I would like to be able to enter the meeting room and this should make it unavailable
 
 ```
+
+</s>
+
 ```
 As a staff member
 In order to end a meeting
