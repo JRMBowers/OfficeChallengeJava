@@ -1,12 +1,10 @@
 package officeChallenge;
 
-import org.junit.Assert;
 import org.junit.Test;
 
 
 import java.util.ArrayList;
 
-import static org.hamcrest.CoreMatchers.instanceOf;
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;

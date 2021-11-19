@@ -1,5 +1,11 @@
 #Office Challenge
 
+##User Guide: 
+Currently this application has the message function removed by default as I have yet to look into environmental variables for java. This is also to prevent the errors that will occur if the application does not receive a valid phone number.
+
+To re-enable this uncomment lines 33 & 34 in MeetingRoom.java - app/src/main/java/officeChallenge/MeetingRoom.java
+##Reflection:
+I am pretty happy with the weeks challenge however if I had more time I would look into environmental variables for my SendSMS Class
 ## Instructions 
 •Challenge time: until the end of the day
 
@@ -73,13 +79,19 @@ I would like an error if I try to use a room that has already been entered
 </s>
 
 ### Stretch user stories
+
+<s>
+
 ```
 As an office manager
 So that I can find out when a room becomes available
 I would like to receive a text message whenever a meeting room becomes available again
 ```
+
 ```
 As an office manager
 So that I can have visibility of how the rooms are being used
 I would like to see the name of the meeting and the name of the team that is using the room
 ```
+
+</s>
